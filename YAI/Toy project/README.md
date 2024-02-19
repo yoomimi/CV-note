@@ -1,5 +1,5 @@
 
-# Lung segmentation with pytorch
+# 👀Lung segmentation with pytorch 
 
 ### unet_model2.py
 
@@ -21,11 +21,12 @@
 
 
 
+*****
 
   
 ## 사용된 데이터 출처: Tuberculosis Chest X-ray Datasets
 
-## Montgomery County CXR Set
+### Montgomery County CXR Set
 
 The Montgomery County chest X-ray dataset is a collection of images aimed at supporting the development and evaluation of image segmentation and other image processing techniques for medical diagnosis, particularly for the detection and analysis of Tuberculosis.
 
