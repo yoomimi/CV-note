@@ -1,11 +1,11 @@
 
 # Lung segmentation with pytorch
 
-## unet_model2.py
+### unet_model2.py
 
 - 간단한 UNet model.
 
-## toyproject_train2.py
+### toyproject_train2.py
 
 - 40장 원본이미지 + 각 이미지당 왼쪽 폐 마스크 & 오른쪽 폐 마스크로 input dataset 구성하고 모델 학습 시키는 코드.
 - Loss: Dice loss
@@ -14,7 +14,7 @@
 - Batch: 4
 - Interpolating size: (256,256)
 
-## toyproject_test2.py
+### toyproject_test2.py
 
 - 5장으로 테스트. Test mask로 accuracy(dice accuracy)구하는 부분 구현.
 - 결과는 segmentation_results 디렉토리에 저장되고 accuracy는 약 90%.
@@ -23,7 +23,7 @@
 
 
   
-# 사용된 데이터 출처: Tuberculosis Chest X-ray Datasets
+## 사용된 데이터 출처: Tuberculosis Chest X-ray Datasets
 
 ## Montgomery County CXR Set
 
