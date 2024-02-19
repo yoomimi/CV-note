@@ -12,6 +12,7 @@
 - Optimizer: ADAM
 - Learning rate: 0.0001
 - Batch: 4
+- Epoch: 100
 - Interpolating size: (256,256)
 
 ### toyproject_test2.py
