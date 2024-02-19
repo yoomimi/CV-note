@@ -1,4 +1,4 @@
-# Tuberculosis Chest X-ray Datasets
+# 사용된 데이터 출처: Tuberculosis Chest X-ray Datasets
 
 ## Montgomery County CXR Set
 
